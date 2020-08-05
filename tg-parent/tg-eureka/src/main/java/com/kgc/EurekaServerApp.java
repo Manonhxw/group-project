@@ -10,6 +10,7 @@ public class EurekaServerApp {
     public static void main(String[] args) {
         //启动eureka
         //李贤 更新
+        //黄学文 更新
         SpringApplication.run(EurekaServerApp.class,args);
     }
 }
