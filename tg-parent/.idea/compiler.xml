@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tg-commen" />
+        <module name="tg-eureka" />
+        <module name="tg-goods-consumer" />
+        <module name="tg-goods-provider" />
+        <module name="tg-leader-consumer" />
+        <module name="tg-leader-provider" />
+        <module name="tg-order-consumer" />
+        <module name="tg-order-provider" />
+        <module name="tg-shopcart-consumer" />
+        <module name="tg-shopcart-provider" />
+        <module name="tg-user-consumer" />
+        <module name="tg-user-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tg-consumer" target="1.8" />
+      <module name="tg-provider" target="1.8" />
+      <module name="tg-shopcart-consumer" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

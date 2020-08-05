@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tg-commen" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tg-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tg-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tg-goods-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tg-goods-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tg-leader-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tg-leader-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tg-order-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tg-order-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tg-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tg-shopcart-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tg-shopcart-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tg-shopcart-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tg-user-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tg-user-provider" charset="UTF-8" />
+  </component>
+</project>
